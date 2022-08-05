@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\bin\Debug\net6.0\CalendarProgram.exe
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\bin\Debug\net6.0\CalendarProgram.deps.json
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\bin\Debug\net6.0\CalendarProgram.runtimeconfig.json
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\bin\Debug\net6.0\CalendarProgram.dll
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\bin\Debug\net6.0\CalendarProgram.pdb
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.dll
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\refint\CalendarProgram.dll
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.pdb
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\CalendarProgram.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CalendarProgram\CalendarProgram\obj\Debug\net6.0\ref\CalendarProgram.dll
